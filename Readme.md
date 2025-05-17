@@ -139,12 +139,6 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - [Tailwind CSS](https://tailwindcss.com/)
 - [React](https://reactjs.org/)
 
-## 📧 Contact
-
-Your Name - [@yourusername](https://github.com/yourusername)
-
-Project Link: [https://github.com/yourusername/IDE](https://github.com/yourusername/IDE)
-
----
 
 Made with ❤️ using React and TypeScript
+Made By Suryanshu Nabheet
