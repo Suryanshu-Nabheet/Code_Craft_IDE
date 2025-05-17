@@ -140,5 +140,5 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 - [React](https://reactjs.org/)
 
 
-Made with ❤️ using React and TypeScript
+Made with ❤️ using React and TypeScript<br>
 Made By Suryanshu Nabheet
