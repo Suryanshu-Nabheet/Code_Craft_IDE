@@ -25,6 +25,16 @@ A modern, browser-based IDE with support for multiple programming languages, bui
 - **Package Manager**: npm/yarn
 - **Icons**: Lucide Icons
 
+<div align="center">
+
+| 🧠 Core Systems | 🛠️ Quantum Tools | 🔌 Neural Interfaces |
+|:---------------:|:----------------:|:--------------------:|
+| ![React](https://img.shields.io/badge/-React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Monaco Editor](https://img.shields.io/badge/-Monaco_Editor-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![XTerm.js](https://img.shields.io/badge/-XTerm.js-000000?style=for-the-badge&logo=terminal&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) | ![Pyodide](https://img.shields.io/badge/-Pyodide-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![Lucide Icons](https://img.shields.io/badge/-Lucide_Icons-34D399?style=for-the-badge&logo=feather&logoColor=white) |
+
+</div>
+
 ## 📁 Project Structure
 
 ```
